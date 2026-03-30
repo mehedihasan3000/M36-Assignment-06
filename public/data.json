@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes easily.\nOptimized for ATS systems.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "Popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+  },
+  {
+    "id": 2,
+    "name": "AI Content Writer",
+    "description": "Generate blog posts and articles.\nSave time with AI-powered writing.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "Best Seller",
+    "features": [
+      "Unlimited content generation",
+      "SEO optimization",
+      "Multiple language support"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2920/2920244.png"
+  },
+  {
+    "id": 3,
+    "name": "Website Builder Kit",
+    "description": "Build websites without coding.\nDrag and drop interface.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "New",
+    "features": [
+      "Drag & drop builder",
+      "Custom domains",
+      "Responsive design"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055687.png"
+  },
+  {
+    "id": 4,
+    "name": "Design Templates Hub",
+    "description": "Access premium UI/UX templates.\nPerfect for designers and developers.",
+    "price": 10,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "Popular",
+    "features": [
+      "500+ templates",
+      "Figma & Adobe XD support",
+      "Regular updates"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png"
+  },
+  {
+    "id": 5,
+    "name": "Project Management Tool",
+    "description": "Manage tasks and teams efficiently.\nBoost productivity with smart tools.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "Best Seller",
+    "features": [
+      "Task tracking",
+      "Team collaboration",
+      "Analytics dashboard"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/906/906175.png"
+  },
+  {
+    "id": 6,
+    "name": "Online Course Platform",
+    "description": "Create and sell online courses.\nAll-in-one learning management system.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "New",
+    "features": [
+      "Course builder",
+      "Student analytics",
+      "Payment integration"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135789.png"
+  }
+]
