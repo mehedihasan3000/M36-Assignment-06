@@ -49,7 +49,7 @@ const Cart = ({ carts, setCarts }) => {
                         <p>Total:</p>
                         <h3 className='text-xl font-semibold sm:font-bold'>${totalPrice}</h3>
                     </div>
-                    <button onClick={() => {setCarts([]); toast.success('Payment successfull!')}} className="btn btn-block bg-blue-500 text-white rounded-full">Proceed To Checkout</button>
+                    <button onClick={() => {setCarts([]); toast.success('Payment successfull!')}} className="btn btn-block bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white rounded-full">Proceed To Checkout</button>
                 </div>
         }
         </>

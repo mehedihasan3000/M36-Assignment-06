@@ -33,7 +33,7 @@ const Footer = () => {
                         <ul className="space-y-4 text-sm">
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Models
+                                    Features
                                 </a>
                             </li>
                             <li>
@@ -43,12 +43,12 @@ const Footer = () => {
                             </li>
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Features
+                                    Templates
                                 </a>
                             </li>
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    API
+                                    Integrations
                                 </a>
                             </li>
                         </ul>
@@ -74,28 +74,33 @@ const Footer = () => {
                             </li>
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Contact
+                                    Press
                                 </a>
                             </li>
                         </ul>
                     </div>
 
                     <div className="md:col-span-3">
-                        <h3 className="font-semibold mb-6 text-lg">Legal</h3>
+                        <h3 className="font-semibold mb-6 text-lg">Resources</h3>
                         <ul className="space-y-4 text-sm">
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Privacy Policy
+                                    Documentation
                                 </a>
                             </li>
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Terms of Service
+                                    Help Center
                                 </a>
                             </li>
                             <li>
                                 <a href="#" className="hover:text-white transition">
-                                    Cookie Settings
+                                    Community
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#" className="hover:text-white transition">
+                                    Contact
                                 </a>
                             </li>
                         </ul>
@@ -142,7 +147,7 @@ const Footer = () => {
 
                 {/* Bottom Bar */}
                 <div className="mt-16 pt-8 border-t border-zinc-800 flex flex-col md:flex-row items-center justify-between gap-4 text-sm">
-                    <div>© {new Date().getFullYear()} AI Hub. All rights reserved.</div>
+                    <div>© {new Date().getFullYear()} DigiTools. All rights reserved.</div>
 
                     <div className="flex gap-6">
                         <a href="">Privacy Policy</a>

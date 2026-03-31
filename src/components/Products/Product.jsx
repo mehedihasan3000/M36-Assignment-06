@@ -41,7 +41,7 @@ const Product = ({ product, carts, setCarts }) => {
                     }
                 </ul>
                 <div className="mt-6">
-                    <button onClick={() => handleCartsProduct(product)} className="btn bg-blue-500 text-white btn-block rounded-full">{isAdded ? 'Added to Carts' : 'Buy Now'}</button>
+                    <button onClick={() => handleCartsProduct(product)} className="btn bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white btn-block rounded-full">{isAdded ? 'Added to Carts' : 'Buy Now'}</button>
                 </div>
             </div>
         </div>

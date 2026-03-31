@@ -18,7 +18,7 @@ const Navbar = ({carts}) => {
                         <li><a>FAQ</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-3xl sm:text-4xl font-bold text-blue-500">DigiTools</a>
+                <a className="btn btn-ghost text-3xl sm:text-4xl font-bold bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent">DigiTools</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -37,7 +37,7 @@ const Navbar = ({carts}) => {
                     }
                 </a>
                 <a href="" className='hidden sm:block'>Login</a>
-                <a className="btn px-3 py-2 sm:px-4 sm:py-3 rounded-full text-white bg-blue-500">Get Started</a>
+                <a className="btn px-3 py-2 sm:px-4 sm:py-3 rounded-full text-white bg-linear-to-r from-[#4F39F6] to-[#9514FA]">Get Started</a>
             </div>
         </div>
     );
